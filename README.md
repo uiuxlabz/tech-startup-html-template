@@ -6,6 +6,10 @@ A premium, framework-free HTML template designed for tech startups and SaaS comp
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Live Demo
 
 Open `index.html` in your browser to preview the template locally.
